@@ -49,7 +49,7 @@
   },
   {
     "AppxPackage": "Microsoft.Getstarted",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-tips/9wzdncrdtbjj",
     "Description": "Windows 10 tips app"
   },
