@@ -139,7 +139,7 @@
   },
   {
     "AppxPackage": "Microsoft.Windows.DevHome",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://learn.microsoft.com/en-us/windows/dev-home/",
     "Description": "A control center providing the ability to monitor projects in your dashboard using customizable widgets and more"
   },
