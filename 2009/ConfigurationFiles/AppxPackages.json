@@ -253,7 +253,7 @@
   },
   {
     "AppxPackage": "Microsoft.ZuneMusic",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt",
     "Description": "Groove Music app"
   },
