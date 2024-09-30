@@ -5,4 +5,5 @@
   <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier="http"/>
   <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier="https"/>  
   <Association ApplicationName="Microsoft Edge" ProgId="MSEdgePDF" Identifier=".pdf"/>
+  <Association ApplicationName="Windows Media Player" ProgId="WMP11.ASsocFile.MP3" Identifier=".MP2"/>
 </DefaultAssociations>
