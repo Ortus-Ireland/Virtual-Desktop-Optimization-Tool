@@ -43,7 +43,7 @@
   },
   {
     "AppxPackage": "Microsoft.GetHelp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/customize-get-help-app",
     "Description": "App that facilitates free support for Microsoft products"
   },
@@ -55,7 +55,7 @@
   },
   {
     "AppxPackage": "Microsoft.MicrosoftOfficeHub",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/office/9wzdncrd29v9",
     "Description": "Office UWP app suite"
   },
@@ -97,7 +97,7 @@
   },
   {
     "AppxPackage": "Microsoft.People",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-people/9nblggh10pg8",
     "Description": "Contact management app"
   },
@@ -151,7 +151,7 @@
   },
   {
     "AppxPackage": "Microsoft.WindowsAlarms",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-alarms-clock/9wzdncrfj3pr",
     "Description": "A combination app, of alarm clock, world clock, timer, and stopwatch."
   },
@@ -169,19 +169,19 @@
   },
   {
     "AppxPackage": "microsoft.windowscommunicationsapps",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm",
     "Description": "Mail & Calendar apps"
   },
   {
     "AppxPackage": "Microsoft.WindowsFeedbackHub",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/feedback-hub/9nblggh4r32n",
     "Description": "App to provide Feedback on Windows and apps to Microsoft"
   },
   {
     "AppxPackage": "Microsoft.WindowsMaps",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-maps/9wzdncrdtbvb",
     "Description": "Microsoft Maps app"
   },
@@ -253,13 +253,13 @@
   },
   {
     "AppxPackage": "Microsoft.ZuneMusic",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt",
     "Description": "Groove Music app"
   },
   {
     "AppxPackage": "Microsoft.ZuneVideo",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2",
     "Description": "Movies and TV app"
   },
@@ -283,13 +283,13 @@
   },
   {
     "AppxPackage": "Microsoft.MixedReality.Portal",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/mixed-reality-portal/9ng1h8b3zc7m",
     "Description": "The app that facilitates Windows Mixed Reality setup, and serves as the command center for mixed reality experiences"
   },
   {
     "AppxPackage": "Microsoft.Microsoft3DViewer",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/3d-viewer/9nblggh42ths",
     "Description": "App to view common 3D file types"
   },
@@ -307,7 +307,7 @@
   },
   {
     "AppxPackage": "Microsoft.Wallet",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/payments",
     "Description": "(Microsoft Pay) for Edge browser on certain devices"
   }
